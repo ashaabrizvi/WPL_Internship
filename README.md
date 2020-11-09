@@ -1,3 +1,3 @@
 # WPL
 
-My Private Repo for WPL Internship
+This is my Daily Analysis for the WPL Internship
