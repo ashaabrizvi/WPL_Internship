@@ -1,3 +1,3 @@
 # WPL
 
-This is my Daily Analysis for the WPL Internship
+This is my Day wise Analysis for the WPL Internship
